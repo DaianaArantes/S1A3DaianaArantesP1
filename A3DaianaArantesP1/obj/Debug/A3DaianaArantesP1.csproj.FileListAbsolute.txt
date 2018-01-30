@@ -1,0 +1,12 @@
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.exe.config
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.exe
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.pdb
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.exe
+C:\Users\Daiana\Desktop\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.exe.config
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\bin\Debug\A3DaianaArantesP1.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts I\A3DaianaArantesP1\A3DaianaArantesP1\obj\Debug\A3DaianaArantesP1.pdb
